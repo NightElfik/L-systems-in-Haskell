@@ -1,0 +1,17 @@
+# cd ...\LSystem\testData
+
+..\src\Main.exe .\Hilbert.lsd .\i.lsi .\Hilbert.in
+
+..\src\Main.exe .\Htree.lsd .\i.lsi .\Htree.in
+
+..\src\Main.exe .\Koch.lsd .\i.lsi .\Koch.in
+
+..\src\Main.exe .\Hilbert.lsd .\i.lsi .\Hilbert.in
+
+..\src\Main.exe .\PenroseTiling.lsd .\i.lsi .\PenroseTiling.in
+
+..\src\Main.exe .\RoseLeaf.lsd .\i.lsi .\RoseLeaf.in
+
+
+
+

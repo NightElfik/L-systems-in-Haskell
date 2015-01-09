@@ -1,0 +1,25 @@
+F DrawLineForward
+H DrawLineForward
+
+W DrawLineForward
+X DrawLineForward
+Y DrawLineForward
+Z DrawLineForward
+
+f MoveForward
+g MoveForward
+
+l DoNothing
+r DoNothing
+x DoNothing
+y DoNothing
+
++ TurnRight
+- TurnLeft
+
+[ StartBranch
+] CompleteBranch
+
+{ StartPolyline
+. RecordPolylineVertex
+} EndPolyline
